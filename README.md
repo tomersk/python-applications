@@ -30,5 +30,6 @@ Authors:
 Compute runoff
 
 ## 5. Soil moisture
+### 5.3 [Soil moisture modelling using Richards' equation](https://github.com/tomersk/python-applications/blob/main/05_03.ipynb)
 
 ## 6. Groundwater
