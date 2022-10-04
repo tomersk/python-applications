@@ -35,3 +35,4 @@ Compute runoff
 ### 5.3 [Soil moisture modelling using Richards' equation](https://github.com/tomersk/python-applications/blob/main/05_03.ipynb)
 
 ## 6. Groundwater
+### 6.1 [AMBHAS ground water model](https://github.com/tomersk/python-applications/blob/main/06_01.ipynb)
