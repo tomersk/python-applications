@@ -36,3 +36,6 @@ Compute runoff
 
 ## 6. Groundwater
 ### 6.1 [AMBHAS ground water model](https://github.com/tomersk/python-applications/blob/main/06_01.ipynb)
+
+## 7. Optimization
+### 7.1 GA
