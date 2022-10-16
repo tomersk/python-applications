@@ -6,6 +6,7 @@ Authors:
 * Sat Kumar Tomer
 * Shubham Goswami
 * Sidharth
+* Jaya Bhatt
 
 # Table of contents
 ## 1. Precipitation
