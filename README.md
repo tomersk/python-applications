@@ -42,3 +42,6 @@ Compute runoff
 ## 7. Optimization
 ### 7.1 GA
 ### 7.2 GLUE
+
+## 8. Miscellaneous
+### 8.1 [Computing mean from CDF](https://github.com/tomersk/python-applications/blob/main/compute_mean.ipynb)
