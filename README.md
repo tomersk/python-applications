@@ -10,7 +10,7 @@ Authors:
 
 # Table of contents
 ## 1. Precipitation
-### 1.1 Make precipitation map
+### 1.1 [Make precipitation map](https://github.com/tomersk/python-applications/blob/main/01_01.ipynb)
 ### 1.2 Extract IMD data over a location
 ### 1.3 Extreme rainfall analysis
 ### 1.4 IDF
