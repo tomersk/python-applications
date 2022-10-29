@@ -43,7 +43,7 @@ Compute runoff
 ### 6.2 [Pastas python package](https://github.com/tomersk/python-applications/blob/main/06_02.ipynb)
 
 ## 7. Optimization
-### 7.1 GA
+### 7.1 [GA](https://github.com/tomersk/python-applications/blob/main/GA.ipynb)
 ### 7.2 GLUE
 
 ## 8. Miscellaneous
