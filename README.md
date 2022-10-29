@@ -8,6 +8,7 @@ Authors:
 * Sidharth
 * Jaya Bhatt
 * Jyotsna Pandey
+* Anubhav Goel
 
 # Table of contents
 ## 1. Precipitation
