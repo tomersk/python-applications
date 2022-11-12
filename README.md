@@ -27,7 +27,7 @@ Authors:
 
 ## 4. Runoff
 ### 4.1 [CN approach](https://github.com/tomersk/python-applications/blob/main/04_01.ipynb)
-### 4.2 Infiltration approach
+### 4.2 [Infiltration approach](https://github.com/tomersk/python-applications/blob/main/04_02.ipynb)
 ### 4.3 [Unit Hydrograph Approach](https://github.com/tomersk/python-applications/blob/main/04_03.ipynb)
 
 
